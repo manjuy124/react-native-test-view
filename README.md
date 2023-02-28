@@ -11,11 +11,11 @@ npm install react-native-test-view
 ## Usage
 
 ```js
-import { multiply } from 'react-native-test-view';
+import SampleView from 'react-native-test-view';
 
 // ...
 
-const result = await multiply(3, 7);
+<SampleView />;
 ```
 
 ## Contributing

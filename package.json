@@ -1,6 +1,7 @@
 {
   "name": "react-native-test-view",
   "version": "0.1.0",
+  "private":"false",
   "description": "test",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
